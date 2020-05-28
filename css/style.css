@@ -1020,7 +1020,6 @@ h2 a {
     position: fixed;
     bottom: 0;
     right: 0;
-    background: #FFF;
     padding: 12px 24px;
     margin-right: 200px;
     color: #3c763d;
@@ -1452,8 +1451,7 @@ abbr[title] {
     }
 
     .col-md-8 {
-        width: 66.66666667%;
-        padding-left: 130px;
+        width: 70%;
     }
 
     .col-md-4 {
@@ -1462,11 +1460,10 @@ abbr[title] {
 
     @media (min-width:1550px) {
         .col-md-4 {
-            width: 14.33333333%;
+            width: 30%;
         }
 
         .col-md-8 {
-            padding-left: 400px;
         }
     }
 }
